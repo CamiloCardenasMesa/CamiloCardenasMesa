@@ -5,13 +5,9 @@
 </details>
 
 <details>
-<summary><strong>Gestión de bases de datos MySQL:</strong></summary>
-<p>Configurar, administrar e interactuar con bases de datos MySQL en aplicaciones web.</p>
-</details>
-
-<details>
-<summary><strong>Uso de Base de Datos:</strong></summary>
-<p>Operaciones CRUD para manipulación de datos.</p>
+<summary><strong>Gestión y uso de bases de datos MySQL:</strong></summary>
+<p>- Configurar, administrar e interactuar con bases de datos MySQL en aplicaciones web.</p>
+<p>- Operaciones CRUD para manipulación de datos.</p>
 </details>
 
 <details>
