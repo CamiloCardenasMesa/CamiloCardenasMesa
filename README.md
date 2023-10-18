@@ -1,7 +1,7 @@
 ### ✔️ Habilidades ✔️
 <details>
 <summary><strong>Desarrollo web con Laravel:</strong></summary>
-<p>Mi experiencia se centra en el uso de este framework. Me centro en desarrollar aplicaciones web sólidas y eficientes utilizando el marco de trabajo PHP.</p>
+<p>Mi experiencia se ha enfocado en el uso de este framework. Me centro en desarrollar aplicaciones web sólidas y eficientes utilizando el marco de trabajo PHP.</p>
 </details>
 
 <details>
