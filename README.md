@@ -1,5 +1,9 @@
 ### ✔️ Habilidades ✔️
-    > *** Desarrollo web con Laravel *** : mi experiencia se centra en el uso de este framework. Me centro en desarrollar aplicaciones web sólidas y eficientes utilizando el marco de trabajo PHP.
+    <details>
+      <summary>Desarrollo web con Laravel</summary><br/>
+         mi experiencia se centra en el uso de este framework. Me centro en desarrollar aplicaciones web sólidas y eficientes utilizando el marco de trabajo PHP.
+    </details>
+    
     - Gestión de bases de datos MySQL: configurar, administrar e interactuar con bases de datos MySQL en aplicaciones web.
     - Uso de Base de Datos: operaciones CRUD para manipulación de datos.
     - Eloquent: uso de Eloquent ORM de Laravel para recuperar y gestionar datos de manera eficiente y coherente.
