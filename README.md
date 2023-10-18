@@ -92,7 +92,7 @@
 - npm y Node.js
    
 
-### 😍 Lo que sigo aprendiendo 😍
+### 😍 Lo que estoy estudiando 😍
 - Desarrollo de páginas reactivas con React.
 - Arquitectura MVC (Modelo, vista, controlador).
 - Patrones de diseño.
