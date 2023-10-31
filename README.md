@@ -65,7 +65,7 @@
 
 <details>
 <summary><strong>Autorización en Laravel </strong></summary>
-<p>Utilizas políticas de autorización integradas en Laravel.</p>
+<p>Uso de políticas de autorización integradas en Laravel.</p>
 </details>
 
 <details>
