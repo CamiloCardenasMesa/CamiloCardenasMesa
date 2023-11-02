@@ -93,8 +93,8 @@
    
 
 ### 😍 Lo que estoy estudiando 😍
-- Desarrollo de páginas reactivas con React.
-- Arquitectura MVC (Modelo, vista, controlador).
-- Patrones de diseño.
+- Páginas reactivas con el stack TALL (Tailwind CSS, Alpine.js, Laravel y Livewire).
 - Implementación de princios SOLID.
+- Patrones de diseño.
+- Desarrollo de páginas reactivas con React.
 
