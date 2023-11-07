@@ -94,7 +94,7 @@
 
 ### 😍 Lo que estoy estudiando 😍
 - Páginas reactivas con el stack TALL (Tailwind CSS, Alpine.js, Laravel y Livewire).
-- Implementación de princios SOLID.
+- Implementación de principios SOLID.
 - Patrones de diseño.
 - Desarrollo de páginas reactivas con React.
 
