@@ -44,6 +44,17 @@
 </details>
 
 <details>
+   <summary>
+      <strong>
+         Análisis estático de código con SonarCloud
+      </strong>
+   </summary>
+   <p>
+      Con esta herramienta logro identificar y abordar problemas potenciales, y mejorar la calidad general del código en mis proyectos.
+   </p>
+</details>
+
+<details>
 <summary><strong>Mantenimiento de estándares de codificación </strong></summary>
 <p>Uso de php-cs-fixer para el formateo y verificación del código para mantener estándares de codificación y calidad del código.</p>
 </details>
