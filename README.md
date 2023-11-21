@@ -100,8 +100,10 @@
 - MySQL
 - Tailwind CSS
 - Git
-- npm y Node.js
-   
+- Livewire
+- CSS
+- HTML 
+
 
 ### 😍 Lo que estoy estudiando 😍
 - Páginas reactivas con el stack TALL (Tailwind CSS, Alpine.js, Laravel y Livewire).
